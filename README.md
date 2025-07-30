@@ -8,3 +8,13 @@
       - Gain an understanding and identifying and analyzing malicious URLs and attachments
       - Explore both proactive and reactive defense strategies against phishing
       - Learn to document and comminate phishing analysis finding proficiently
+
+
+# Phishing Attacks Techniques
+
+  ## Pretexting
+      - Fabricating a backstor
+      - Manipulation under false pretense
+   ## Spoofing & Impersonation
+      - Email Address spoofing
+      - Domain spoofing
