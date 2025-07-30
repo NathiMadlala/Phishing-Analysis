@@ -15,6 +15,17 @@
   ## Pretexting
       - Fabricating a backstor
       - Manipulation under false pretense
-   ## Spoofing & Impersonation
+  ## Spoofing & Impersonation
       - Email Address spoofing
       - Domain spoofing
+  ## URL Manipulation
+      - URL shortening
+      - Subdomain Spoofing
+      - Homograph Attacks
+      - Typosquatting
+  ## Encoding
+      - Obfuscate & evade detection
+      - Base64, URL encoding, HTML encoding
+      - Obscure Javascript
+  ## Attachments
+      - Download & execute
