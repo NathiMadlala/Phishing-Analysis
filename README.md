@@ -9,7 +9,6 @@
       - Explore both proactive and reactive defense strategies against phishing
       - Learn to document and comminate phishing analysis finding proficiently
 
-
 # Phishing Attacks Techniques
 
   ## Pretexting
@@ -29,3 +28,10 @@
       - Obscure Javascript
   ## Attachments
       - Download & execute
+  ## Abuse of legitimate services
+      - Google-Drive,Dropbox etc
+      - Using Trusted reputation to send malware
+  ## Pharming 
+      - Two-step technique
+      - Malware based pharming 
+      - DNS server poisoning
